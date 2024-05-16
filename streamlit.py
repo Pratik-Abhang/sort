@@ -17,8 +17,7 @@ def sad_you(ip):
         print("I found a love, for me\n Darling, just dive right in and follow my lead\n Well, I found a girl, beautiful and sweet\n Oh, I never knew you were the someone waiting for me\n")
     else:
         print("I have faith in what I see\n Now I know I have met an angel in person\n And she looks perfect\n I don't deserve this\nYou look perfect tonight")
-        
-sad_you(ip)
+
 
 
 import streamlit as st 
