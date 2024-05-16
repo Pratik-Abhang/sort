@@ -1,6 +1,6 @@
+
+
 import streamlit as st 
-from functions import my_function
-my_function(sad_you)
 st.title("Accha ji mai hara chaloo maaan jaoooo na")
 user_input = st.text_input("Enter here")
 if st.button("click me"):
