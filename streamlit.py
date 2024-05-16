@@ -2,7 +2,7 @@ import streamlit as st
 
 def sad_you(ip):
     if ip == 'i love you':
-        return "Well, I found a woman, stronger than anyone I know<br> She shares my dreams, I hope that someday Ill share her home<br> I found a lover, to carry more than just my secrets To carry love, to carry children of our own"
+        return ["Well, I found a woman, stronger than anyone I know<br> She shares my dreams, I hope that someday Ill share her home<br> I found a lover, to carry more than just my secrets To carry love, to carry children of our own"]
     elif ip == 'i hate you':
         return "We are still kids, but we're so in love Fighting against all odds<br> I know we'll be alright this time<br> Darling, just hold my hand Be my girl, I'll be your man<br> I see my future in your eyes"
     elif ip == 'i am mad at you':
